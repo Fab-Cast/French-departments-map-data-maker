@@ -1,0 +1,16 @@
+.dpt {
+  fill: #dadae2;
+  stroke: #ffffff;
+}
+.dpt:hover {
+  fill: #e78989;
+}
+
+text {
+  font-weight: 900;
+}
+
+.params-container {
+  float: left;
+  padding: 10px;
+}/*# sourceMappingURL=style.css.map */
