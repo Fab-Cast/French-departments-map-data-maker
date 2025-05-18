@@ -3,7 +3,7 @@
   stroke: #ffffff;
 }
 .dpt:hover {
-  fill: #e78989;
+  fill: #c9c9d3;
 }
 
 text {
@@ -13,4 +13,4 @@ text {
 .params-container {
   float: left;
   padding: 10px;
-}/*# sourceMappingURL=style.css.map */
+}
